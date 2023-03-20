@@ -1,17 +1,18 @@
 @media screen and (max-width:600px),(orientation:portrait) {
 
+   
     img{
       height: 200px;
       width: 300px;
     }
 
     fieldset {
-      border: 3px solid #FFF;
+      border: 2px solid #FFF;
       margin: auto;
-      width: 450px;
-      padding: 10px;
+      width: 90px;
+      padding: 7px;
       text-shadow: 1px 1px 2px #857c7c;
-      font-size: 17px;
+      font-size: 18px;
     }
     
     legend#l1{
