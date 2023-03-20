@@ -1,0 +1,300 @@
+@media screen and (max-width:600px),(orientation:portrait) {
+
+    img{
+      height: 200px;
+      width: 300px;
+    }
+
+    fieldset {
+      border: 3px solid #FFF;
+      margin: auto;
+      width: 450px;
+      padding: 10px;
+      text-shadow: 1px 1px 2px #857c7c;
+      font-size: 17px;
+    }
+    
+    legend#l1{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      background-color: #FFF;
+      color: #000;
+      padding: 3px;
+    }
+
+    label{
+      background-color: #FFF;
+      padding: 3px;
+      color: #000;
+    }
+
+    main > legend#l2{
+      padding: 2px;
+      width: 180px;
+    }
+
+    input[type=text]{
+      height: 25px;
+    }
+    
+    button[type=submit], button[type=reset]{
+     padding: 7px;
+    }
+    
+    button[type=submit]:hover{
+      cursor: pointer;
+      background-color: #adff2f;
+      border: #adff2f;
+      font-weight: bold;
+      padding: 10px;
+      border-radius: 5px;
+      transition: 0.5s;
+    }
+    
+    button[type=reset]:hover{
+      cursor: pointer;
+      background-color: #ff0000;
+      border: #ff0000;
+      font-weight: bold;
+      padding: 10px;
+      border-radius: 5px;
+      transition: 0.5s;
+    }
+
+    section#saida > p{
+      color: #FFF;
+      text-align: center;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-weight: bold;
+      font-size: 19px;
+      text-shadow: 1px 1px 3px #857c7c;
+    }
+    
+
+  }
+
+  @media screen and (max-width:768px),(orientation:portrait) {
+
+    img{
+      height: 200px;
+      width: 330px;
+    }
+
+    fieldset {
+      border: 3px solid #FFF;
+      margin: auto;
+      width: 455px;
+      padding: 15px;
+      text-shadow: 1px 1px 2px #857c7c;
+      font-size: 17px;
+    }
+    
+    legend#l1{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      background-color: #FFF;
+      color: #000;
+      padding: 4px;
+    }
+
+    label{
+      background-color: #FFF;
+      padding: 3px;
+      color: #000;
+    }
+
+    main > legend#l2{
+      padding: 4px;
+      width: 180px;
+    }
+
+    input[type=text]{
+      height: 29px;
+    }
+    
+    button[type=submit], button[type=reset]{
+     padding: 7px;
+    }
+    
+    button[type=submit]:hover{
+      cursor: pointer;
+      background-color: #adff2f;
+      border: #adff2f;
+      font-weight: bold;
+      padding: 10px;
+      border-radius: 5px;
+      transition: 0.5s;
+    }
+    
+    button[type=reset]:hover{
+      cursor: pointer;
+      background-color: #ff0000;
+      border: #ff0000;
+      font-weight: bold;
+      padding: 10px;
+      border-radius: 5px;
+      transition: 0.5s;
+    }
+
+    section#saida > p{
+      color: #FFF;
+      text-align: center;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-weight: bold;
+      font-size:22px;
+      text-shadow: 1px 1px 3px #857c7c;
+    }
+    
+
+  }
+
+  @media screen and (max-width:992px) and (orientation:landscape) {
+
+    img{
+      height: 250px;
+      width: 400px;
+    }
+
+    fieldset {
+      border: 3px solid #FFF;
+      margin: auto;
+      width: 450px;
+      padding: 15px;
+      text-shadow: 1px 1px 2px #857c7c;
+      font-size: 20px;
+    }
+    
+    legend#l1{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      background-color: #FFF;
+      color: #000;
+      padding: 7px;
+    }
+
+    label{
+      background-color: #FFF;
+      padding: 3px;
+      color: #000;
+    }
+
+    main > legend#l2{
+      padding: 5px;
+      width: 200px;
+    }
+
+    input[type=text]{
+      height: 35px;
+    }
+    
+    button[type=submit], button[type=reset]{
+     padding: 10px;
+    }
+    
+    button[type=submit]:hover{
+      cursor: pointer;
+      background-color: #adff2f;
+      border: #adff2f;
+      font-weight: bold;
+      padding: 15px;
+      border-radius: 10px;
+      transition: 0.7s;
+    }
+    
+    button[type=reset]:hover{
+      cursor: pointer;
+      background-color: #ff0000;
+      border: #ff0000;
+      font-weight: bold;
+      padding: 15px;
+      border-radius: 10px;
+      transition: 0.7s;
+    }
+
+    section#saida > p{
+      color: #FFF;
+      text-align: center;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-weight: bold;
+      font-size: 30px;
+      text-shadow: 1px 1px 3px #857c7c;
+    }
+    
+
+  }
+
+
+  @media screen and (max-width:1200px) and (orientation:landscape) {
+
+    img{
+      height: 350px;
+      width: 450px;
+    }
+
+    fieldset {
+      border: 3px solid #FFF;
+      margin: auto;
+      width: 450px;
+      padding: 15px;
+      text-shadow: 1px 1px 2px #857c7c;
+      font-size: 20px;
+    }
+    
+    legend#l1{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      background-color: #FFF;
+      color: #000;
+      padding: 7px;
+    }
+
+    label{
+      background-color: #FFF;
+      padding: 3px;
+      color: #000;
+    }
+
+    main > legend#l2{
+      padding: 5px;
+      width: 200px;
+    }
+
+    input[type=text]{
+      height: 35px;
+    }
+    
+    button[type=submit], button[type=reset]{
+     padding: 10px;
+    }
+    
+    button[type=submit]:hover{
+      cursor: pointer;
+      background-color: #adff2f;
+      border: #adff2f;
+      font-weight: bold;
+      padding: 15px;
+      border-radius: 10px;
+      transition: 0.7s;
+    }
+    
+    button[type=reset]:hover{
+      cursor: pointer;
+      background-color: #ff0000;
+      border: #ff0000;
+      font-weight: bold;
+      padding: 15px;
+      border-radius: 10px;
+      transition: 0.7s;
+    }
+
+    section#saida > p{
+      color: #FFF;
+      text-align: center;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-weight: bold;
+      font-size: 30px;
+      text-shadow: 1px 1px 3px #857c7c;
+    }
+    
+
+  }
+
+
+
+
