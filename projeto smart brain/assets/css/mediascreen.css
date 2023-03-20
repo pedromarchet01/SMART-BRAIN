@@ -1,18 +1,21 @@
-@media screen and (max-width:600px),(orientation:portrait) {
+@media screen and (max-width:600px){
 
-   
     img{
       height: 200px;
       width: 300px;
     }
 
     fieldset {
-      border: 2px solid #FFF;
+      border: 1px solid #FFF;
       margin: auto;
-      width: 90px;
-      padding: 7px;
+      width: 100px;
+      padding: 5px;
       text-shadow: 1px 1px 2px #857c7c;
       font-size: 18px;
+    }
+
+    input[type=radio]{
+      margin-left: 5px;
     }
     
     legend#l1{
@@ -77,7 +80,7 @@
 
     img{
       height: 200px;
-      width: 330px;
+      width: 300px;
     }
 
     fieldset {
@@ -151,7 +154,7 @@
 
     img{
       height: 250px;
-      width: 400px;
+      width: 300px;
     }
 
     fieldset {
@@ -226,7 +229,7 @@
 
     img{
       height: 350px;
-      width: 450px;
+      width: 470px;
     }
 
     fieldset {
@@ -295,6 +298,7 @@
     
 
   }
+
 
 
 
