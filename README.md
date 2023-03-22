@@ -9,7 +9,11 @@ LINK PARA ACESSO: https://pedromarchet01.github.io/SMART-BRAIN/projeto%20smart%2
 CÓDIGOS:
 
 Φ - 555
+
 Χ - 913
+
 Δ - Delta
+
 Ψ - 315
+
 Ω - 000
